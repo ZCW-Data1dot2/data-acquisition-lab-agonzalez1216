@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "resultset": {
+            "offset": 11,
+            "count": 11,
+            "limit": 1
+        }
+    },
+    "results": [
+        {
+            "uid": "gov.noaa.ncdc:C00313",
+            "mindate": "1900-01-01",
+            "maxdate": "2014-01-01",
+            "name": "Precipitation Hourly",
+            "datacoverage": 1,
+            "id": "PRECIP_HLY"
+        }
+    ]
+}

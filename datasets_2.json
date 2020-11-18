@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "resultset": {
+            "offset": 3,
+            "count": 11,
+            "limit": 1
+        }
+    },
+    "results": [
+        {
+            "uid": "gov.noaa.ncdc:C00947",
+            "mindate": "1763-01-01",
+            "maxdate": "2020-01-01",
+            "name": "Global Summary of the Year",
+            "datacoverage": 1,
+            "id": "GSOY"
+        }
+    ]
+}

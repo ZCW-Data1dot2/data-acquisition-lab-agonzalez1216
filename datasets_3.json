@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "resultset": {
+            "offset": 4,
+            "count": 11,
+            "limit": 1
+        }
+    },
+    "results": [
+        {
+            "uid": "gov.noaa.ncdc:C00345",
+            "mindate": "1991-06-05",
+            "maxdate": "2020-11-15",
+            "name": "Weather Radar (Level II)",
+            "datacoverage": 0.95,
+            "id": "NEXRAD2"
+        }
+    ]
+}
